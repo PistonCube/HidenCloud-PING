@@ -1,0 +1,32 @@
+/*
+ Created by PistonCube
+ Url: www.pistoncube.com.ar
+ Git: github.com/PistonCube
+ SourceCode: https://github.com/PistonCube/HidenCloud-PING
+------------------------------*/
+
+body {
+    background-color: #121026;
+    color: #ffffff;
+  }
+  .card {
+    background-color: #181731;
+    border: none;
+  }
+  .btn-custom {
+    background-color: #242344;
+    color: #ffffff;
+  }
+  .btn-custom:hover {
+    background-color: #3a3c5c;
+  }
+  .navbar-custom {
+    background-color: #242344;
+  }
+
+/*
+ Created by PistonCube
+ Url: www.pistoncube.com.ar
+ Git: github.com/PistonCube
+ SourceCode: https://github.com/PistonCube/HidenCloud-PING
+------------------------------*/
